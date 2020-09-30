@@ -1,2 +1,0 @@
-# LagerVerwaltung
-Mobel Lager Verwaltung
